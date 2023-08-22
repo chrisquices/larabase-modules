@@ -1,0 +1,9 @@
+[
+    {
+        "id": 1,
+        "name": "Blog",
+        "code": "larabase-blog",
+        "description": "Provides complete management for Authors, Posts and comments",
+        "repository_url": "https://github.com/chrisquices/larabase-blog",
+    }
+]
