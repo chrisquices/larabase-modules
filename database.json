@@ -3,7 +3,14 @@
         "id": 1,
         "name": "Blog",
         "code": "larabase-blog",
-        "description": "Provides complete management for Authors, Posts and Comments",
+        "description": "Provides complete management for authors, posts and comments",
         "repository_url": "https://github.com/chrisquices/larabase-blog"
+    },
+    {
+        "id": 2,
+        "name": "World",
+        "code": "larabase-world",
+        "description": "Provides complete management for countries, flags, cities and capitals",
+        "repository_url": "https://github.com/chrisquices/larabase-world"
     }
 ]
