@@ -12,12 +12,5 @@
         "code": "larabase-world",
         "description": "Provides complete management for countries, flags, cities and capitals",
         "repository_url": "https://github.com/chrisquices/larabase-world"
-    },
-    {
-        "id": 3,
-        "name": "Test",
-        "code": "larabase-test",
-        "description": "Provides complete management for test",
-        "repository_url": "https://github.com/chrisquices/larabase-test"
     }
 ]
