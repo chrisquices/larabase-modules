@@ -10,7 +10,7 @@
         "id": 2,
         "name": "World",
         "code": "larabase-world",
-        "description": "Provides complete management for countries, flags, cities and capitals",
+        "description": "Provides complete management for countries, states, cities and languages",
         "repository_url": "https://github.com/chrisquices/larabase-world"
     }
 ]
